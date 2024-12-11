@@ -60,10 +60,10 @@ Interactive buttons with bubbly animations and hover effects make task managemen
 ## 🖼️ Screenshots
 
 ### Light Mode:
-![Light Mode Screenshot](link-to-light-mode-screenshot)
+
 
 ### Dark Mode:
-![Dark Mode Screenshot](link-to-dark-mode-screenshot)
+
 
 ---
 
