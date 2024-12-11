@@ -60,9 +60,11 @@ Interactive buttons with bubbly animations and hover effects make task managemen
 ## 🖼️ Screenshots
 
 ### Light Mode:
+![lightmood](https://github.com/user-attachments/assets/995f7d61-5f03-47b1-a3cb-a4c721dfbcde)
 
 
 ### Dark Mode:
+![darkmood](https://github.com/user-attachments/assets/6ab52816-c9b8-4ed1-923a-303bf015bb44)
 
 
 ---
