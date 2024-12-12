@@ -39,7 +39,7 @@ Interactive buttons with bubbly animations and hover effects make task managemen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-zone.git
+   git clone https://github.com/julnar98/MyToDo-App.git
    cd todo-zone
    ```
 
